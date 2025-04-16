@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ConfigService/pom.xml" />
+        <option value="$PROJECT_DIR$/DoctorService/pom.xml" />
+        <option value="$PROJECT_DIR$/HospitalEmployeeService/pom.xml" />
+        <option value="$PROJECT_DIR$/DiscoveryService/pom.xml" />
+        <option value="$PROJECT_DIR$/EmployeeService/pom.xml" />
+        <option value="$PROJECT_DIR$/DoctorService2/pom.xml" />
+        <option value="$PROJECT_DIR$/DoctorServiice/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaDiscoveryService/pom.xml" />
+        <option value="$PROJECT_DIR$/NurseService/pom.xml" />
+        <option value="$PROJECT_DIR$/PatientService/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/DiscoveryService/pom.xml" />
+        <option value="$PROJECT_DIR$/DoctorService/pom.xml" />
+        <option value="$PROJECT_DIR$/HospitalEmployeeService/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
