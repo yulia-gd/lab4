@@ -1,7 +1,5 @@
 package org.example.doctorserviice.client;
 
-import jakarta.validation.Valid;
-import org.example.doctorserviice.request.DoctorAddRequest;
 import org.example.doctorserviice.request.HospitalEmployeeAddAndUpdateRequest;
 import org.example.doctorserviice.responce.HospitalEmployeeResponse;
 import org.springframework.cloud.openfeign.FeignClient;

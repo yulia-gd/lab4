@@ -5,7 +5,6 @@ import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 
 import org.example.doctorserviice.dto.DoctorDto;
-import org.example.doctorserviice.entities.Doctor;
 import org.example.doctorserviice.request.DoctorAddRequest;
 import org.example.doctorserviice.request.DoctorUpdateRequest;
 import org.example.doctorserviice.responce.ApiResponse;
@@ -13,7 +12,6 @@ import org.example.doctorserviice.service.DoctorService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.print.Doc;
 
 import static org.springframework.http.HttpStatus.CREATED;
 import static org.springframework.http.HttpStatus.FOUND;

@@ -2,7 +2,6 @@ package org.example.nurseservice.controller;
 
 
 import jakarta.validation.Valid;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.example.nurseservice.dto.NurseDto;
 import org.example.nurseservice.request.NurseAddRequest;

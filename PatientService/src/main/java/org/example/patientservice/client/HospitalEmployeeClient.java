@@ -5,7 +5,7 @@ import org.example.patientservice.responce.HospitalEmployeeResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
-@FeignClient(name = "HOSPITALEMPLOYEE")  // Ім'я має збігатися з spring.application.name іншого сервісу
+@FeignClient(name = "HOSPITALEMPLOYEE")
 public interface HospitalEmployeeClient {
 
     @GetMapping("/api/v1/employee/{id}")

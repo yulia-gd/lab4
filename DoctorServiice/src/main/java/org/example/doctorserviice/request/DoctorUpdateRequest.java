@@ -1,7 +1,5 @@
 package org.example.doctorserviice.request;
 
-import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.Size;
 import lombok.Data;
 
 @Data
